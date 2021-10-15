@@ -1,5 +1,5 @@
 # powerlevel10k.omp
 
 Port of a specific romkatv/powerlevel10k theme to Oh My Posh.
-
-Download `CaskaydiaCove NF` to properly display additional symbols and extend default Cascadia font on Windows.
+![Screenshot](screenshot.png)
+For Windows you can download `CaskaydiaCove NF` to extend default Cascadia font and properly display additional symbols; Though any `Nerd Font` will work.
